@@ -1,0 +1,1 @@
+see tutorial here: https://www.baptistout.net/posts/convert-jwks-modulus-exponent-to-pem-or-ssh-public-key/
